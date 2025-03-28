@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+D:\C++ boyicha proyektlar\Kalkulyator(formalar bilan ishlash)\MyForm.cpp(7,15): warning C4551: в вызове функции отсутствует список аргументов
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  calkulyator.vcxproj -> D:\C++ boyicha proyektlar\Kalkulyator(formalar bilan ishlash)\x64\Debug\calkulyator.exe

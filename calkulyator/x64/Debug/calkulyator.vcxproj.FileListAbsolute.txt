@@ -1,0 +1,15 @@
+C:\Users\ABDURAHMON\source\repos\Solution3\calkulyator\calkulyator\x64\Debug\calkulyator.vcxproj.AssemblyReference.cache
+C:\Users\ABDURAHMON\source\repos\Solution3\calkulyator\calkulyator\x64\Debug\calkulyator.MyForm.resources
+C:\Users\ABDURAHMON\source\repos\Solution3\calkulyator\calkulyator\x64\Debug\calkulyator.vcxproj.GenerateResource.cache
+D:\calkulyator\calkulyator\x64\Debug\calkulyator.vcxproj.AssemblyReference.cache
+D:\calkulyator\calkulyator\x64\Debug\calkulyator.MyForm.resources
+D:\calkulyator\calkulyator\x64\Debug\calkulyator.vcxproj.GenerateResource.cache
+D:\Calculator1\calkulyator\x64\Debug\calkulyator.vcxproj.AssemblyReference.cache
+D:\Calculator1\calkulyator\x64\Debug\calkulyator.MyForm.resources
+D:\Calculator1\calkulyator\x64\Debug\calkulyator.vcxproj.GenerateResource.cache
+D:\C++ boyicha proyektlar\Calculator1\calkulyator\x64\Debug\calkulyator.vcxproj.AssemblyReference.cache
+D:\C++ boyicha proyektlar\Calculator1\calkulyator\x64\Debug\calkulyator.MyForm.resources
+D:\C++ boyicha proyektlar\Calculator1\calkulyator\x64\Debug\calkulyator.vcxproj.GenerateResource.cache
+D:\C++ boyicha proyektlar\Kalkulyator(formalar bilan ishlash)\calkulyator\x64\Debug\calkulyator.vcxproj.AssemblyReference.cache
+D:\C++ boyicha proyektlar\Kalkulyator(formalar bilan ishlash)\calkulyator\x64\Debug\calkulyator.MyForm.resources
+D:\C++ boyicha proyektlar\Kalkulyator(formalar bilan ishlash)\calkulyator\x64\Debug\calkulyator.vcxproj.GenerateResource.cache
